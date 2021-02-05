@@ -1,3 +1,3 @@
 # shehacks2021
 
-She Hacks 2021
+SheHacks 2021 teamwork
